@@ -262,7 +262,7 @@ var Game = function () {
     if (win) {
       resultDiv.innerHTML = '你赢了';
     } else {
-      resultDiv.innerHTML = '游戏结束';
+      resultDiv.innerHTML = 'Game Over!';
     }
   }
 
